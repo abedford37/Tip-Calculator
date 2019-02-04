@@ -1,10 +1,10 @@
-# Pre-work - Tip Me
+# Pre-work - **Tip Me**
 
 Tip Me is a tip calculator application for iOS.
 
-Submitted by: Ashley Bedford
+Submitted by: **Ashley Bedford**
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
@@ -34,6 +34,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+I had a hard time formatting my segmented control. I couldn't fix it's height.
 
 ## License
 
